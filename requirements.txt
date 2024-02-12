@@ -1,0 +1,2 @@
+Streamlit==version 1.31.0
+moviepy== version 1.0.3
